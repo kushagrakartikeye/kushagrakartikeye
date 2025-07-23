@@ -1,11 +1,11 @@
 <!-- Animated Banner -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=F75C7E&width=600&lines=Hi%2C+I'm+Kushagra+Kartikeye!;Electronics+%26+Blockchain+Enthusiast;IoT+%7C+Web3+%7C+Full-Stack+Developer;Open+to+Internship+Opportunities" alt="Typing SVG" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=F75C7E&width=600&lines=Hi%2C+I'm+Kushagra+Kartikeye!;Electronics+%26+Blockchain+Enthusiast;IoT+%7C+Web3+%7C+Full-Stack+Developer;Open+to+Internship+Opportunities" alt="Typing SVG" />
+</p>
 
----
-
-![Profile Views](https://komarev.com/ghpvc/?username=kushagrakartikeye&label=Profile%20Views&color=blue&style=flat)
-
----
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kushagrakartikeye&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
+</p>
 
 # 👋 Hi, I'm Kushagra Kartikeye  
 
@@ -15,10 +15,10 @@
 ---
 
 ## 🖌 About Me:
-- 🔍 Currently exploring **Blockchain-integrated IoT**  
-- 🌱 Preparing for **GATE ECE 2026**  
-- 🎯 Goal: Build **secure, scalable, and innovative tech solutions**  
-- 🛠 Skilled in **Embedded Systems | Blockchain (Solidity, Web3.js) | Full-Stack Development**  
+- 🔍 Currently exploring **Blockchain-integrated IoT**
+- 🌱 Preparing for **GATE ECE 2026**
+- 🎯 Goal: Build **secure, scalable, and innovative tech solutions**
+- 🛠 Skilled in **Embedded Systems | Blockchain (Solidity, Web3.js) | Full-Stack Development**
 
 ---
 
@@ -27,7 +27,8 @@
 
 ---
 
-## 🛠 Tech Stack:
+## 🛠 Tech Stack
+
 **Languages & Frameworks**  
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
@@ -53,37 +54,58 @@
 
 ---
 
-## 📊 GitHub Stats:
-![Kushagra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kushagrakartikeye&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kushagrakartikeye&layout=compact&theme=radical)
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=kushagrakartikeye&theme=radical)
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kushagrakartikeye&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushagrakartikeye&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kushagrakartikeye&theme=radical" alt="Streak Stats" />
+</p>
 
 ---
 
-## 🏆 GitHub Trophies:
-![Trophies](https://github-profile-trophy.vercel.app/?username=kushagrakartikeye&theme=radical&margin-w=10&margin-h=10)
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kushagrakartikeye&theme=radical&margin-w=10&margin-h=10" alt="Trophies" />
+</p>
 
 ---
 
-## 📈 Contribution Graph:
-[![Kushagra's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kushagrakartikeye&theme=react-dark)](https://github.com/kushagrakartikeye)
+## 📈 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kushagrakartikeye&theme=react-dark" alt="Activity Graph" />
+</p>
 
 ---
 
-## 🔍 Activity Breakdown:
+## 🔍 Activity Breakdown
+
+> ⚠️ **WakaTime profile not found or set to private. To enable activity stats, ensure you have a public WakaTime profile or [set it up here](https://wakatime.com).**
+>
+> _If you already have one, check the spelling of your username in the link below:_
+
 ![Metrics](https://github-readme-stats.vercel.app/api/wakatime?username=kushagrakartikeye&layout=compact&theme=radical)
 
 ---
 
-## ✍️ Random Dev Quote:
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## ✍️ Random Dev Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
+</p>
 
 ---
 
-## 🔝 Top Contributed Repo:
-![Top Repo](https://github-contributor-stats.vercel.app/api?username=kushagrakartikeye&limit=5&theme=radical)
+## 🔝 Top Contributed Repo
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=kushagrakartikeye&limit=5&theme=radical" alt="Top Repo" />
+</p>
 
 ---
 
-### ✅ Profile Badges:
+### ✅ Profile Badges
 [![Open for Internships](https://img.shields.io/badge/Open%20for-Internships-brightgreen?style=for-the-badge)](https://www.linkedin.com/in/kushagra-kartikeye-06a270278/)
+
+---
+
+> _Want more? Add pinned project cards with images, a blog feed, or auto-generated summary for your latest repositories!_
+> 
+> _Be sure to fix any broken images or errors (like WakaTime, Trophies) by checking the username/case sensitivity, and ensure external services are public and active for your account. For most widgets, all you need to do is use your correct username and check the instructions on their respective pages._
