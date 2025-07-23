@@ -104,8 +104,3 @@
 ### ✅ Profile Badges
 [![Open for Internships](https://img.shields.io/badge/Open%20for-Internships-brightgreen?style=for-the-badge)](https://www.linkedin.com/in/kushagra-kartikeye-06a270278/)
 
----
-
-> _Want more? Add pinned project cards with images, a blog feed, or auto-generated summary for your latest repositories!_
-> 
-> _Be sure to fix any broken images or errors (like WakaTime, Trophies) by checking the username/case sensitivity, and ensure external services are public and active for your account. For most widgets, all you need to do is use your correct username and check the instructions on their respective pages._
