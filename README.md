@@ -1,3 +1,12 @@
+<!-- Animated Banner -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=F75C7E&width=600&lines=Hi%2C+I'm+Kushagra+Kartikeye!;Electronics+%26+Blockchain+Enthusiast;IoT+%7C+Web3+%7C+Full-Stack+Developer;Open+to+Internship+Opportunities" alt="Typing SVG" />
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=kushagrakartikeye&label=Profile%20Views&color=blue&style=flat)
+
+---
+
 # 👋 Hi, I'm Kushagra Kartikeye  
 
 🚀 **Electronics & Blockchain Enthusiast** | **IoT Innovator** | **Full-Stack Developer**  
@@ -56,10 +65,26 @@
 
 ---
 
+## 📈 Contribution Graph:
+[![Kushagra's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kushagrakartikeye&theme=react-dark)](https://github.com/kushagrakartikeye)
+
+---
+
+## 🔍 Activity Breakdown:
+![Metrics](https://github-readme-stats.vercel.app/api/wakatime?username=kushagrakartikeye&layout=compact&theme=radical)
+
+---
+
 ## ✍️ Random Dev Quote:
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
-## 🔝 Top Contributed Repo
+## 🔝 Top Contributed Repo:
 ![Top Repo](https://github-contributor-stats.vercel.app/api?username=kushagrakartikeye&limit=5&theme=radical)
+
+---
+
+### ✅ Profile Badges:
+[![Open for Internships](https://img.shields.io/badge/Open%20for-Internships-brightgreen?style=for-the-badge)](https://www.linkedin.com/in/kushagra-kartikeye-06a270278/)
+[![Blockchain Enthusiast](https://img.shields.io/badge/Blockchain-Enthusiast-blueviolet?style=for-the-badge)]()
