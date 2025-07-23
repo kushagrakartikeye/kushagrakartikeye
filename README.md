@@ -87,4 +87,3 @@
 
 ### ✅ Profile Badges:
 [![Open for Internships](https://img.shields.io/badge/Open%20for-Internships-brightgreen?style=for-the-badge)](https://www.linkedin.com/in/kushagra-kartikeye-06a270278/)
-[![Blockchain Enthusiast](https://img.shields.io/badge/Blockchain-Enthusiast-blueviolet?style=for-the-badge)]()
