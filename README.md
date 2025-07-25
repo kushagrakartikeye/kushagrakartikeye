@@ -7,15 +7,17 @@
   <img src="https://komarev.com/ghpvc/?username=kushagrakartikeye&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
 </p>
 
+---
+
 # 👋 Hi, I'm Kushagra Kartikeye  
 
 🚀 **Electronics & Blockchain Enthusiast** | **IoT Innovator** | **Full-Stack Developer**  
-💡 Passionate about building **embedded systems integrated with Web3** and AI-powered solutions.  
+💡 Passionate about building **embedded systems integrated with Web3** and **AI-powered solutions**.  
 
 ---
 
 ## 🖌 About Me:
-- 🔍 Currently exploring **Blockchain-integrated IoT**
+- 🔍 Exploring **Blockchain-integrated IoT**
 - 🌱 Preparing for **GATE ECE 2026**
 - 🎯 Goal: Build **secure, scalable, and innovative tech solutions**
 - 🛠 Skilled in **Embedded Systems | Blockchain (Solidity, Web3.js) | Full-Stack Development**
@@ -78,12 +80,7 @@
 ---
 
 ## 🔍 Activity Breakdown
-
-> ⚠️ **WakaTime profile not found or set to private. To enable activity stats, ensure you have a public WakaTime profile or [set it up here](https://wakatime.com).**
->
-> _If you already have one, check the spelling of your username in the link below:_
-
-![Metrics](https://github-readme-stats.vercel.app/api/wakatime?username=kushagrakartikeye&layout=compact&theme=radical)
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=kushagrakartikeye&layout=compact&theme=radical)
 
 ---
 
@@ -95,9 +92,7 @@
 ---
 
 ## 🔝 Top Contributed Repo
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=kushagrakartikeye&limit=5&theme=radical" alt="Top Repo" />
-</p>
+![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=kushagrakartikeye&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ---
 
